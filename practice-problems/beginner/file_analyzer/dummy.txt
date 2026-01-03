@@ -1,0 +1,4 @@
+Hello World!
+What the hell is this script
+Not sure
+test1\n test2\n test3

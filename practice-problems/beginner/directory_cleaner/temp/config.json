@@ -1,0 +1,5 @@
+{
+    "backup_dir": "backup",
+    "max_backups": 5,
+    "cleanup_days": 30
+}
